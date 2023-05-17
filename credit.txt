@@ -1,0 +1,64 @@
+Credit: 
+q w e
+credit card number: 321
+doubt: 4213
+interest rate: 21
+period: 12
+monthly payment: 4214.03
+
+Credit: 
+p o w
+credit card number: 4213
+doubt: 10000
+interest rate: 10
+period: 12
+monthly payment: nan
+
+Credit: 
+q w e
+credit card number: 312
+doubt: 412
+interest rate: 2
+period: 12
+monthly payment: 81.481
+
+Credit: 
+p o w
+credit card number: 321431
+doubt: 10000
+interest rate: 10
+period: 12
+monthly payment: 8339.12
+
+Credit: 
+q w e
+credit card number: 312
+doubt: 421
+interest rate: 4
+period: 3
+monthly payment: 242.739
+
+Credit: 
+p o w
+credit card number: 42151
+doubt: 10000
+interest rate: 10
+period: 12
+monthly payment: 8339.12
+
+Credit: 
+q w e
+credit card number: 1231
+doubt: 10000
+interest rate: 10
+period: 12
+monthly payment: 8339.12
+
+Credit: 
+q w e
+credit card number: 3242
+doubt: 10000
+interest rate: 10
+period: 12
+monthly payment: 879.159
+
